@@ -6,8 +6,7 @@ Este projeto demonstra testes automatizados de interface utilizando **Playwright
 - Python 3.13
 - Playwright
 - Behave (BDD)
-- Django (como exemplo de backend)
-- Pytest (para testes de API)
+- Pytest 
 
 ## Como Executar o Projeto
 
